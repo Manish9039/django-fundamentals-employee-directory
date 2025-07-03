@@ -1,0 +1,20 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+env/
+venv/
+
+# IDE settings
+.idea/
+
+# Database (optional)
+db.sqlite3
+
+# Media files (optional, if large or irrelevant)
+media/
+
+# OS files
+*.DS_Store
+Thumbs.db
